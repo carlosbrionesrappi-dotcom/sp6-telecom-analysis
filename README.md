@@ -1,4 +1,4 @@
-# 📊 Análisis de Comportamiento de Clientes – ConnectaTel (Sprint 7)
+# 📊 Análisis de Comportamiento de Clientes – ConnectaTel (Sprint 6)
 
 Este repositorio contiene un análisis de datos exhaustivo sobre **ConnectaTel**, una empresa de telecomunicaciones en Latinoamérica. El proyecto se enfoca en evaluar el comportamiento de los clientes, detectar patrones de consumo y generar segmentos estratégicos basándose en datos registrados hasta el año **2024**.
 
