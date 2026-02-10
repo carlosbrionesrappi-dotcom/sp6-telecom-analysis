@@ -48,7 +48,7 @@ Este repositorio contiene un análisis de datos exhaustivo sobre **ConnectaTel**
 
 ### Opción 1: Google Colab (Recomendado)
 Haz clic en el siguiente botón para ejecutar el código directamente en la nube:
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg](https://colab.research.google.com/drive/1DSpHJ3dT72Iylnl24gCCicSD_TVFl0M6))](TU_LINK_DE_COLAB_AQUI)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([TU_LINK_DE_COLAB_AQUI](https://colab.research.google.com/drive/1DSpHJ3dT72Iylnl24gCCicSD_TVFl0M6))
 
 ### Opción 2: Ejecución Local
 1. Clona el repositorio:
